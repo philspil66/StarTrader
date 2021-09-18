@@ -7,6 +7,7 @@ Star Trader is a 1974 video game and an early example of the space trading genre
 Star Trader is a single-player space trading game, in which the player trades resources between star systems in order to make money. The game presents a star map of the galaxy in which the player moves about and makes money from trading and establishing trading routes. The player travels from node to node on the star map buying and selling six types of merchandise: uranium, metals, gems, software, heavy equipment, and medicine. The game's interface is text-only.
 
 ![Star_Trader_1974_screenshot](https://user-images.githubusercontent.com/14840708/133887556-b9fcebe7-985b-41a8-ad1c-00944d346e48.png)
+
 Screenshot of gameplay, featuring the galaxy map
 
 ## Development
