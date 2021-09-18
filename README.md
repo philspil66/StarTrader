@@ -11,7 +11,7 @@ Star Trader is a single-player space trading game, in which the player trades re
 Screenshot of gameplay, featuring the galaxy map
 
 ## Development
-Star Trader was written by Dave Kaufman in the BASIC programming language. The source code to the game was published in the People's Computer Company Newsletter in volume 2, issue 3 in January 1974. The concept for the game is seemingly based on Isaac Asimov's Foundation series of novels.
+Star Trader was written by Dave Kaufman in the [BASIC programming language](https://en.wikipedia.org/wiki/BASIC). The source code to the game was published in the People's Computer Company Newsletter in volume 2, issue 3 in January 1974. The concept for the game is seemingly based on Isaac Asimov's Foundation series of novels.
 
 ## Legacy
 In 1977, the game's code was reprinted in What to Do After You Hit Return. Star Trader was used as the inspiration for the first game of the Trade Wars series of multiplayer space trading games in 1984, making it the ancestor of many subsequent space trader games, including Eve Online, the Wing Commander Privateer series and Elite series.
