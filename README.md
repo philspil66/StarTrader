@@ -24,12 +24,14 @@ Several unrelated but similar space trading games have been released under the n
 From the time when computer games where played on dot-matrix printers, here are the HP Standard BASIC versions of the Star Trader Setup Module and the Star Trader Main Module. This version supports dot-martix printers and punch tapes.
 
 Listing #1- Star Trader / Game Seup Module - HP BASIC
+
 Listing #2 - Star Trader / Main Module - HP BASIC
 
 ### Microsoft GW BASIC
 Here is the beginning of a port from HP Standard BASIC to Microsoft GW BASIC. Code needs to be cleaned up to fix the smaller real estate size of a computer screen compared to the dot-matrix pritner.
 
 Listing #1 - Star Trader / Game Seup Module - Microsoft GW BASIC
+
 Listing #2 - Star Trader / Main Module - Microsoft GW BASIC
 
 
