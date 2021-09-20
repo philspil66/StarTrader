@@ -27,12 +27,7 @@ From the time when computer games where played on dot-matrix printers, here are 
 
 [Listing #2](sec/STAR%20TRADERS%20MAIN%20MODULE-%20HP%20BASIC.txt) - Star Trader / Main Module - HP BASIC
 
-### Microsoft GW BASIC
-Here is the beginning of a port from HP Standard BASIC to Microsoft GW BASIC. Code needs to be cleaned up to fix the smaller real estate size of a computer screen compared to the dot-matrix pritner.
 
-[Listing #1](src/Game%20Seup%20Module%20-%20Microsoft%20GW%20BASIC.txt) - Star Trader / Game Seup Module - Microsoft GW BASIC
-
-Listing #2 - Star Trader / Main Module - Microsoft GW BASIC
 
 
 
