@@ -18,3 +18,22 @@ In 1977, the game's code was reprinted in What to Do After You Hit Return. Star 
 
 Several unrelated but similar space trading games have been released under the name Star Trader. One such game was released by Bug Byte Software in 1984 for the ZX Spectrum and Commodore 64, and was one of the games included with the Softaid compilation. Another was written by S. J. Singer in 1984 using Altair Basic, and modified by John Zaitseff for Microsoft Basic under the CP/M-80 operating system in 1988. Completely rewritten versions for CP/M-80, CP/M-86, MS-DOS, Microsoft Windows 3.1 and Linux/Unix followed, with the latest release for Linux and Unix occurring in November 2019. All versions by John Zaitseff have been released or relicensed under the GNU General Public License v3.
 
+## Listings
+
+### HP Standard BASIC
+From the time when computer games where played on dot-matrix printers, here are the HP Standard BASIC versions of the Star Trader Setup Module and the Star Trader Main Module. This version supports dot-martix printers and punch tapes.
+
+[Listing #1](src/STAR%20TRADERS%20GAME%20SET-UP%20MODULE%20-%20HP%20BASIC.txt)- Star Trader / Game Seup Module - HP BASIC
+
+[Listing #2](sec/STAR%20TRADERS%20MAIN%20MODULE-%20HP%20BASIC.txt) - Star Trader / Main Module - HP BASIC
+
+### Microsoft GW BASIC
+Here is the beginning of a port from HP Standard BASIC to Microsoft GW BASIC. Code needs to be cleaned up to fix the smaller real estate size of a computer screen compared to the dot-matrix pritner.
+
+[Listing #1](src/Game%20Seup%20Module%20-%20Microsoft%20GW%20BASIC.txt) - Star Trader / Game Seup Module - Microsoft GW BASIC
+
+Listing #2 - Star Trader / Main Module - Microsoft GW BASIC
+
+
+
+
