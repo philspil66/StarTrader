@@ -27,7 +27,10 @@ From the time when computer games where played on dot-matrix printers, here are 
 
 [Listing #2](sec/STAR%20TRADERS%20MAIN%20MODULE-%20HP%20BASIC.txt) - Star Trader / Main Module - HP BASIC
 
+### Python version
+This is a Python version of the original BASIC game.
 
+[Python version](https://github.com/philspil66/StarTrader-Python) - Star Trader (1974) in Python.
 
 
 
