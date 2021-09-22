@@ -23,9 +23,9 @@ Several unrelated but similar space trading games have been released under the n
 ### HP Standard BASIC
 From the time when computer games where played on dot-matrix printers, here are the HP Standard BASIC versions of the Star Trader Setup Module and the Star Trader Main Module. This version supports dot-martix printers and punch tapes.
 
-[Listing #1](src/STAR%20TRADERS%20GAME%20SET-UP%20MODULE%20-%20HP%20BASIC.txt)- Star Trader / Game Seup Module - HP BASIC
+[Listing #1](src/STAR-TRADERS-GAME-SET-UP-MODULE-HP-BASIC.bas)- Star Trader / Game Seup Module - HP BASIC
 
-[Listing #2](sec/STAR%20TRADERS%20MAIN%20MODULE-%20HP%20BASIC.txt) - Star Trader / Main Module - HP BASIC
+[Listing #2](sec/STAR-TRADERS-MAIN-MODULE-HP-BASIC.bas) - Star Trader / Main Module - HP BASIC
 
 ### Python version
 This is a Python version of the original BASIC game.
